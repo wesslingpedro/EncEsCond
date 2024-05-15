@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\bin\Debug\net8.0\EncEsCond.exe
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\bin\Debug\net8.0\EncEsCond.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\bin\Debug\net8.0\EncEsCond.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\bin\Debug\net8.0\EncEsCond.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\bin\Debug\net8.0\EncEsCond.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\refint\EncEsCond.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\EncEsCond.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EncEsCond\EncEsCond\obj\Debug\net8.0\ref\EncEsCond.dll
